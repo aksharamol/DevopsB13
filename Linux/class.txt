@@ -1,0 +1,6 @@
+class1.txt
+class2.txt
+class4.txt
+class.txt
+dir2
+test.txt
