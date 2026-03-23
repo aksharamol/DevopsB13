@@ -1,0 +1,10 @@
+DevOps is a set of practices, cultural philosophies, and tools that automates and integrates the processes between software development and IT operations teams. By prioritizing automation, CI/CD, and collaboration, it enables faster, more reliable, and frequent software delivery, improving an organization's ability to develop, deploy, and maintain applications efficiently. 
+Key Principles and Practices:
+CI/CD (Continuous Integration/Continuous Delivery): Automated building, testing, and deployment to ensure consistent, reliable releases.
+Infrastructure as Code (IaC): Managing infrastructure through code and automation rather than manual configuration.
+Monitoring and Logging: Real-time visibility into application performance to proactively fix issues.
+Version Control: Using systems like Git to track changes and facilitate collaboration.
+Collaboration and Culture: Breaking down silos between developers and operations to encourage shared responsibility. 
+Microsoft Azure
+Microsoft Azure
+ +5
