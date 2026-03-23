@@ -1,0 +1,11 @@
+Task:
+1. Find all the files which are greater than 4kb and delete it
+2. Find all the files with .txt and change the permission to 777
+3. Find all the files in pwd, but search only up to a maximum depth of 2 levels.
+   hint find . -maxdepth 2 -type f
+ Task:
+1. Find all the files which are greater than 4kb and delete it
+2. Find all the files with .txt and change the permission to 777
+3. Find all the files in pwd, but search only up to a maximum depth of 2 levels.
+   hint find . -maxdepth 2 -type f
+ 
