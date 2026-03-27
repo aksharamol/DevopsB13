@@ -1,0 +1,3 @@
+
+This file is relevant
+DevOps is a set of practices, cultural philosophies, and tools that automates and integrates the processes between software development and IT operations teams. By prioritizing automation, CI/CD, and collaboration, it enables faster, more reliable, and frequent software delivery, improving an organization's ability to develop, deploy, and maintain applications efficiently.
