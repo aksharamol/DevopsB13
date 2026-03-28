@@ -1,7 +1,6 @@
+
 This is modifidE
 
-
-this is new
 This is modified.
 Resolve conflict done.
 This line is aded from main  
