@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                git 'https://github.com/user/terraform-project.git'
+                git ' https://github.com/aksharamol/DevopsB13.git'
 
             }
 
@@ -57,4 +57,6 @@ pipeline {
     }
 
 }
+
+
 
