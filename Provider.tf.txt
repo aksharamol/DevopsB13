@@ -1,0 +1,13 @@
+Provider.tf
+
+terraform {
+required providers {
+azurerm =
+source =
+version =
+}
+}
+
+provider "azurerm" {
+ features {}
+}
