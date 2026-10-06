@@ -1,0 +1,26 @@
+
+variable "subscription_id" {
+  description = "Azure subscription ID"
+  type        = string
+}
+
+variable "resource_group_name" {
+  description = "Name of the resource group"
+  type        = string
+}
+
+variable "location" {
+  description = "Azure region"
+  type        = string
+}
+
+variable "key_vault_name" {
+  description = "Globally unique Key Vault name"
+  type        = string
+}
+
+variable "environment" {
+  description = "Deployment environment"
+  type        = string
+  default     = "dev"
+}
