@@ -1,5 +1,5 @@
 
-subscription_id     = "YOUR-AZURE-SUBSCRIPTION-ID"
+
 
 resource_group_name = "devops-aks-rg"
 location            = "Central India"
